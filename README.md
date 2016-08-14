@@ -6,6 +6,7 @@
 3. 2015（ICML）Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network
 4. 2015（ICCV）Unsupervised Object Discovery and Tracking in Video Collections
 
+------------------------------------
 ### Tracking in 2016
 1. 2016（ECCV）Learning to Track at 100 FPS with Deep Regression Networks
 2. 2016（CVPR）MDnet：learning multi-domain convolution neural networks for visual tracking
@@ -18,3 +19,9 @@
 9. 2016（CVPR）Hedged Deep Tracking
 10. 2016（CVPR）Structural Correlation Filter for Robust Visual Tracking
 11. 2016（CVPR）Visual Tracking Using Attention-Modulated Disintegration and Integration
+
+-------------------------------------
+###Others
+1. [物体跟踪-CVPR16-tracking[上]](http://blog.csdn.net/ben_ben_niao/article/details/52072659)
+2. [物体跟踪-CVPR16-tracking[下]](http://blog.csdn.net/ben_ben_niao/article/details/52078727)
+3. [CNN-tracking-文章导读](http://www.mamicode.com/info-detail-1319376.html)
