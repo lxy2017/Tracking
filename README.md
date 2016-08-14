@@ -2,14 +2,21 @@
 
 ### Tracking in 2015
 1. 2015（ICCV）Fcnt:Visual Tracking with Fully Convolutional Networks
+[PDF](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)
+[论文笔记](http://blog.csdn.net/carrierlxksuper/article/details/48918297)
 2. 2015（ICCV）Hierarchical Convolutional Features for Visual Tracking
+[Project](https://github.com/jbhuang0604/CF2)
+[论文笔记](http://blog.csdn.net/autocyz/article/details/50827010)
 3. 2015（ICML）Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network
 4. 2015（ICCV）Unsupervised Object Discovery and Tracking in Video Collections
 
 ------------------------------------
 ### Tracking in 2016
 1. 2016（ECCV）Learning to Track at 100 FPS with Deep Regression Networks
+[Project](http://davheld.github.io/GOTURN/GOTURN.html)
 2. 2016（CVPR）MDnet：learning multi-domain convolution neural networks for visual tracking
+[PPT](http://www.votchallenge.net/vot2015/download/presentation_Hyeonseob.pdf)
+[论文笔记](http://www.cnblogs.com/wangxiaocvpr/p/5598608.html)
 3. 2016（CVPR）Adaptive Decontamination of the Training Set:A Unified Formulation for Discriminative Visual Tracking
 4. 2016（CVPR）STCT: Sequentially Training Convolutional Networks for Visual Tracking
 5. 2016（CVPR）Staple: Complementary Learners for Real-Time Tracking
